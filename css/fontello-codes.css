@@ -1,0 +1,15 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-briefcase:before { content: '\e801'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-pinterest-squared:before { content: '\f0d3'; } /* '' */
+.icon-gplus:before { content: '\f0d5'; } /* '' */
+.icon-suitcase:before { content: '\f0f2'; } /* '' */
+.icon-desktop:before { content: '\f108'; } /* '' */
+.icon-laptop:before { content: '\f109'; } /* '' */
+.icon-tablet:before { content: '\f10a'; } /* '' */
+.icon-youtube:before { content: '\f167'; } /* '' */
+.icon-file-code:before { content: '\f1c9'; } /* '' */
+.icon-paypal:before { content: '\f1ed'; } /* '' */
+.icon-chart-line:before { content: '\f201'; } /* '' */
+.icon-facebook-official:before { content: '\f230'; } /* '' */
