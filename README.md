@@ -1,0 +1,1 @@
+# pasja-informatyki-pierwszastrona
